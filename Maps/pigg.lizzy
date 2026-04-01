@@ -1,13 +1,13 @@
 Meta-Inf
 Name: Pigglesworth
 Creator: Biff
-Horizontal-Blocks:13
-Vertical-Blocks:13
-Start:(0,6)
-End:(12,6)
-Block-Length:69
-Window-Height:997
-Window-Width:997
+Horizontal-Blocks: 13
+Vertical-Blocks: 13
+Start: (0,6)
+End: (12,6)
+Block-Length: 69
+Window-Height: 997
+Window-Width: 997
 
 C reg
 // Leave comments with '//'
