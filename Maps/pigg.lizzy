@@ -1,0 +1,34 @@
+Meta-Inf
+Name: Pigglesworth
+Creator: Biff
+Horizontal-Blocks:13
+Vertical-Blocks:13
+Start:(0,6)
+End:(12,6)
+Block-Length:69
+Window-Height:997
+Window-Width:997
+
+C reg
+// Leave comments with '//'
+//C reg: 0 - grey (wall/path), 1 = nothing,  2 = purple, 3 = Red
+//4 - Pink, 5 = Yellow, 6 = Green, 7 = brown,
+//If you don't want to use standard colors,
+// Colors
+//0O = (r,g,b)
+//0C = (r,g,b)
+def board
+//1 2  3  4  5  6  7  8  9  A  B  C  D
+1C 0O 0O 0O 0O 0O 0O 0O 0O 0O 0O 0O 1C
+1C 1C 0C 0C 5C 0C 0C 0C 3O 0C 0C 1C 1C
+1C 1C 1C 0O 0O 0O 0C 0O 0O 0O 1C 1C 1C
+1C 1C 0C 0O 0C 0O 0C 7C 0C 0O 0O 1C 1C
+1C 0C 0O 0O 0C 2C 0C 0O 0O 0C 0O 0O 1C
+0C 0C 0O 0C 6O 0O 1C 0C 0O 0O 0C 0O 0O
+0O 0O 2O 0O 0O 1C 1C 1C 0C 0O 0C 0C 4O
+0C 0C 0O 0C 0O 0C 1C 0O 0O 3C 0O 0O 0O
+1C 0C 0O 0O 0O 0O 0O 0O 0C 0C 0O 0C 1C
+1C 1C 0C 0C 0O 0C 0C 0C 0O 0O 0O 1C 1C
+1C 1C 1C 0C 0O 5O 0O 0C 0O 0C 1C 1C 1C
+1C 1C 1C 1C 0C 0C 7O 0O 6O 1C 1C 1C 1C
+1C 1C 1C 1C 1C 0C 0O 0C 1C 1C 1C 1C 1C
