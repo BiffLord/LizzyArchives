@@ -5,9 +5,11 @@ Horizontal-Blocks: 13
 Vertical-Blocks: 13
 Start: (0,6)
 End: (12,6)
-Block-Length: 69
-Window-Height: 997
-Window-Width: 997
+Block-Length: 60
+Window-Height: 900
+Window-Width: 900
+Horizontal-Offset: 60
+Vertical-Offset: 60
 
 C reg
 // Leave comments with '//'
