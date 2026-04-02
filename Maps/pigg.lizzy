@@ -8,8 +8,8 @@ End: (12,6)
 Block-Length: 60
 Window-Height: 900
 Window-Width: 900
-Horizontal-Offset: 60
-Vertical-Offset: 60
+Horizontal-Offset: 27
+Vertical-Offset: 27
 
 C reg
 // Leave comments with '//'
